@@ -1,6 +1,6 @@
 CREATE DATABASE EMS;
 USE EMS;
-CREATE TABLE employee_details(emp_no INT NOT NULL  ,
+CREATE TABLE employee_details(emp_no INT NOT NULL,
 								first_name VARCHAR(20) NOT NULL,
                                 last_name VARCHAR(20) ,
                                 DOB DATE NOT NULL,
